@@ -1,16 +1,34 @@
-# teste_slidy
+# video_plugins_tester
 
-A new Flutter project.
+A app testing some of the most popular video plugins for flutter.
 
-## Getting Started
+<p align="center">
+  <img src="/media/img1.png">
+</p>
 
-This project is a starting point for a Flutter application.
+# Chewie
+<p align="center">
+  <img src="/media/img2.png">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+# youtube_player_flutter
+<p align="center">
+  <img src="/media/img3.png">
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# flutter_youtube
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="/media/img4.png">
+</p>
+
+# youtube_api
+
+<p align="center">
+  <img src="/media/img5.png">
+</p>
+
+
+
+
+
