@@ -1,0 +1,5 @@
+lib/app/modules/videos/videos_module.dart
+lib/app/modules/videos/videos_page.dart
+test/app/modules/videos/videos_page_test.dart
+lib/app/modules/videos/videos_controller.dart
+test/app/modules/videos/videos_controller_test.dart

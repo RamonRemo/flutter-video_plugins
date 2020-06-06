@@ -1,0 +1,4 @@
+lib/app/videosPage2/videosPage2_page.dart
+test/app/videosPage2/videosPage2_page_test.dart
+lib/app/videosPage2/videosPage2_controller.dart
+test/app/videosPage2/videosPage2_controller_test.dart
